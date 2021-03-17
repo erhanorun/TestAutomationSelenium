@@ -24,4 +24,4 @@ Our Page Oriented Design includes Classes in below:
 
 ## PURPOSE
 * My Purpose is creating a page oriented design for test automation of some operations at the website which is [www.gittigidiyor.com](/api.md).
-* Some operations are adding product to cart, login to the website, searching any category etc.
+* Some operations are adding product to cart, login to the website, searching any category etc.  
